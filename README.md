@@ -1,4 +1,4 @@
-# ML-for-blogpost-subtask-1
+# Duplicate Images Removal
 
 This project has made use of the **Difference Hash** function to carry out image processing, since it is one of the most effective hashing methods.   
 After hashes of every image in the dataset (which was downloaded from the google drive link to my local system), they were stored in an array and sorted.  
